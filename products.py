@@ -2,16 +2,16 @@ products = [
     {"name": "PC Gaming", 
     "price": 650,
     "description": "New PC Gaming from iBUYComputer",
-    "quantity": 10 
+    "stock": 10 
     },
     {"name": "Headset Gaming", 
     "price": 200,
     "description": "Headsets from Logitech",
-    "quantity": 5 
+    "stock": 5 
     },
     {"name": "Mouse & Keyboard", 
     "price": 150,
     "description": "Mouse & Keyboard wireless",
-    "quantity": 10 
+    "stock": 10 
     }
 ]
