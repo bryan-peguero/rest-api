@@ -1,5 +1,5 @@
 products = [
-    {"name": "ok", 
+    {"name": "PC Gaming", 
     "price": 650,
     "description": "New PC Gaming from iBUYComputer",
     "quantity": 10 
@@ -12,6 +12,6 @@ products = [
     {"name": "Mouse & Keyboard", 
     "price": 150,
     "description": "Mouse & Keyboard wireless",
-    "quantity": 2 
+    "quantity": 10 
     }
 ]
