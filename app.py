@@ -51,6 +51,7 @@ def deleteProduct(product_name):
         products.remove(productFound[0])
         return jsonify({'message': 'The product was founded and deleted'})
     return 'Not Found'
+    
 #Init
 if __name__ == '__main__':
     app.run(debug=True, port='5500')
