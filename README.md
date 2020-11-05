@@ -1,2 +1,4 @@
-# rest_api
-First Rest Api
+# First REST API
+*****                                         *****
+     This is my first time doing a Rest Api (:
+*****                                         *****
